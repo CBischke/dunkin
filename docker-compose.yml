@@ -1,0 +1,54 @@
+version: '2'
+services:
+  base:
+    build:
+      context: ./base-docker
+      dockerfile: Dockerfile
+    image: 140427343267.dkr.ecr.us-east-2.amazonaws.com/base:latest
+  chat:
+    build:
+      context: ./chat-room/
+      dockerfile: Dockerfile
+    image: 140427343267.dkr.ecr.us-east-2.amazonaws.com/chat-bot:latest
+    ports:
+      - 8080:8080
+    links:
+      - convo
+    depends_on:
+      - base
+      - convo
+  convo:
+    build:
+      context: ./dunkin-convo/
+      dockerfile: Dockerfile
+    image: 140427343267.dkr.ecr.us-east-2.amazonaws.com/dunkin_convo:latest
+    ports:
+      - 5000:8080
+    links:
+      - mongodb
+    depends_on:
+      - base
+      - mongodb
+  tutor:
+    build:
+      context: ./dunkin-tutor/
+      dockerfile: Dockerfile
+    image: 140427343267.dkr.ecr.us-east-2.amazonaws.com/dunkin_tutor
+    ports:
+      - 5001:8080
+    links:
+      - mongodb
+    depends_on:
+      - base
+      - mongodb
+  mongodb:
+    image: mongo:latest
+    container_name: "mongodb"
+    environment:
+      - MONGO_DATA_DIR=/data/db
+      - MONGO_LOG_DIR=/dev/null
+    volumes:
+      - ./data/db:/data/db
+    ports:
+        - 27017:27017
+    command: mongod --smallfiles --logpath=/dev/null # --quiet

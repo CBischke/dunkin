@@ -1,0 +1,166 @@
+EARLY LIFE OF KEPLER.
+
+
+On 21st December, 1571, at Weil in the Duchy of Wurtemberg, was born a
+weak and sickly seven-months' child, to whom his parents Henry and
+Catherine Kepler gave the name of John. Henry Kepler was a petty officer
+in the service of the reigning Duke, and in 1576 joined the army serving
+in the Netherlands. His wife followed him, leaving her young son in his
+grandfather's care at Leonberg, where he barely recovered from a severe
+attack of smallpox. It was from this place that John derived the
+Latinised name of Leonmontanus, in accordance with the common practice
+of the time, but he was not known by it to any great extent. He was sent
+to school in 1577, but in the following year his father returned to
+Germany, almost ruined by the absconding of an acquaintance for whom he
+had become surety. Henry Kepler was obliged to sell his house and most
+of his belongings, and to keep a tavern at Elmendingen, withdrawing his
+son from school to help him with the rough work. In 1583 young Kepler
+was sent to the school at Elmendingen, and in 1584 had another narrow
+escape from death by a violent illness. In 1586 he was sent, at the
+charges of the Duke, to the monastic school of Maulbronn; from whence,
+in accordance with the school regulations, he passed at the end of his
+first year the examination for the bachelor's degree at Tübingen,
+returning for two more years as a "veteran" to Maulbronn before being
+admitted as a resident student at Tübingen. The three years thus spent
+at Maulbronn were marked by recurrences of several of the diseases from
+which he had suffered in childhood, and also by family troubles at his
+home. His father went away after a quarrel with his wife Catherine, and
+died abroad. Catherine herself, who seems to have been of a very
+unamiable disposition, next quarrelled with her own relatives. It is not
+surprising therefore that Kepler after taking his M.A. degree in August,
+1591, coming out second in the examination lists, was ready to accept
+the first appointment offered him, even if it should involve leaving
+home. This happened to be the lectureship in astronomy at Gratz, the
+chief town in Styria. Kepler's knowledge of astronomy was limited to the
+compulsory school course, nor had he as yet any particular leaning
+towards the science; the post, moreover, was a meagre and unimportant
+one. On the other hand he had frequently expressed disgust at the way in
+which one after another of his companions had refused "foreign"
+appointments which had been arranged for them under the Duke's scheme of
+education. His tutors also strongly urged him to accept the lectureship,
+and he had not the usual reluctance to leave home. He therefore
+proceeded to Gratz, protesting that he did not thereby forfeit his claim
+to a more promising opening, when such should appear. His astronomical
+tutor, Maestlin, encouraged him to devote himself to his newly adopted
+science, and the first result of this advice appeared before very long
+in Kepler's "Mysterium Cosmographicum". The bent of his mind was towards
+philosophical speculation, to which he had been attracted in his
+youthful studies of Scaliger's "Exoteric Exercises". He says he devoted
+much time "to the examination of the nature of heaven, of souls, of
+genii, of the elements, of the essence of fire, of the cause of
+fountains, the ebb and flow of the tides, the shape of the continents
+and inland seas, and things of this sort". Following his tutor in his
+admiration for the Copernican theory, he wrote an essay on the primary
+motion, attributing it to the rotation of the earth, and this not for
+the mathematical reasons brought forward by Copernicus, but, as he
+himself says, on physical or metaphysical grounds. In 1595, having more
+leisure from lectures, he turned his speculative mind to the number,
+size, and motion of the planetary orbits. He first tried simple
+numerical relations, but none of them appeared to be twice, thrice, or
+four times as great as another, although he felt convinced that there
+was some relation between the motions and the distances, seeing that
+when a gap appeared in one series, there was a corresponding gap in the
+other. These gaps he attempted to fill by hypothetical planets between
+Mars and Jupiter, and between Mercury and Venus, but this method also
+failed to provide the regular proportion which he sought, besides being
+open to the objection that on the same principle there might be many
+more equally invisible planets at either end of the series. He was
+nevertheless unwilling to adopt the opinion of Rheticus that the number
+six was sacred, maintaining that the "sacredness" of the number was of
+much more recent date than the creation of the worlds, and could not
+therefore account for it. He next tried an ingenious idea, comparing the
+perpendiculars from different points of a quadrant of a circle on a
+tangent at its extremity. The greatest of these, the tangent, not being
+cut by the quadrant, he called the line of the sun, and associated with
+infinite force. The shortest, being the point at the other end of the
+quadrant, thus corresponded to the fixed stars or zero force;
+intermediate ones were to be found proportional to the "forces" of the
+six planets. After a great amount of unfinished trial calculations,
+which took nearly a whole summer, he convinced himself that success did
+not lie that way. In July, 1595, while lecturing on the great planetary
+conjunctions, he drew quasi-triangles in a circular zodiac showing the
+slow progression of these points of conjunction at intervals of just
+over 240° or eight signs. The successive chords marked out a smaller
+circle to which they were tangents, about half the diameter of the
+zodiacal circle as drawn, and Kepler at once saw a similarity to the
+orbits of Saturn and Jupiter, the radius of the inscribed circle of an
+equilateral triangle being half that of the circumscribed circle. His
+natural sequence of ideas impelled him to try a square, in the hope that
+the circumscribed and inscribed circles might give him a similar
+"analogy" for the orbits of Jupiter and Mars. He next tried a pentagon
+and so on, but he soon noted that he would never reach the sun that way,
+nor would he find any such limitation as six, the number of "possibles"
+being obviously infinite. The actual planets moreover were not even six
+but only five, so far as he knew, so he next pondered the question of
+what sort of things these could be of which only five different figures
+were possible and suddenly thought of the five regular solids.[2] He
+immediately pounced upon this idea and ultimately evolved the following
+scheme. "The earth is the sphere, the measure of all; round it describe
+a dodecahedron; the sphere including this will be Mars. Round Mars
+describe a tetrahedron; the sphere including this will be Jupiter.
+Describe a cube round Jupiter; the sphere including this will be Saturn.
+Now, inscribe in the earth an icosahedron, the sphere inscribed in it
+will be Venus: inscribe an octahedron in Venus: the circle inscribed in
+it will be Mercury." With this result Kepler was inordinately pleased,
+and regretted not a moment of the time spent in obtaining it, though to
+us this "Mysterium Cosmographicum" can only appear useless, even without
+the more recent additions to the known planets. He admitted that a
+certain thickness must be assigned to the intervening spheres to cover
+the greatest and least distances of the several planets from the sun,
+but even then some of the numbers obtained are not a very close fit for
+the corresponding planetary orbits. Kepler's own suggested explanation
+of the discordances was that they must be due to erroneous measures of
+the planetary distances, and this, in those days of crude and infrequent
+observations, could not easily be disproved. He next thought of a
+variety of reasons why the five regular solids should occur in precisely
+the order given and in no other, diverging from this into a subtle and
+not very intelligible process of reasoning to account for the division
+of the zodiac into 360°. The next subject was more important, and dealt
+with the relation between the distances of the planets and their times
+of revolution round the sun. It was obvious that the period was not
+simply proportional to the distance, as the outer planets were all too
+slow for this, and he concluded "either that the moving intelligences of
+the planets are weakest in those that are farthest from the sun, or that
+there is one moving intelligence in the sun, the common centre, forcing
+them all round, but those most violently which are nearest, and that it
+languishes in some sort and grows weaker at the most distant, because of
+the remoteness and the attenuation of the virtue". This is not so near a
+guess at the theory of gravitation as might be supposed, for Kepler
+imagined that a repulsive force was necessary to account for the planets
+being sometimes further from the sun, and so laid aside the idea of a
+constant attractive force. He made several other attempts to find a law
+connecting the distances and periods of the planets, but without success
+at that time, and only desisted when by unconsciously arguing in a
+circle he appeared to get the same result from two totally different
+hypotheses. He sent copies of his book to several leading astronomers,
+of whom Galileo praised his ingenuity and good faith, while Tycho Brahe
+was evidently much struck with the work and advised him to adapt
+something similar to the Tychonic system instead of the Copernican. He
+also intimated that his Uraniborg observations would provide more
+accurate determinations of the planetary orbits, and thus made Kepler
+eager to visit him, a project which as we shall see was more than
+fulfilled. Another copy of the book Kepler sent to Reymers the Imperial
+astronomer with a most fulsome letter, which Tycho, who asserted that
+Reymers had simply plagiarised his work, very strongly resented, thus
+drawing from Kepler a long letter of apology. About the same time Kepler
+had married a lady already twice widowed, and become involved in
+difficulties with her relatives on financial grounds, and with the
+Styrian authorities in connection with the religious disputes then
+coming to a head. On account of these latter he thought it expedient,
+the year after his marriage, to withdraw to Hungary, from whence he sent
+short treatises to Tübingen, "On the magnet" (following the ideas of
+Gilbert of Colchester), "On the cause of the obliquity of the ecliptic"
+and "On the Divine wisdom as shown in the Creation". His next important
+step makes it desirable to devote a chapter to a short notice of Tycho
+Brahe.
+
+[Footnote 2: Since the sum of the plane angles at a corner of a regular
+solid must be less than four right angles, it is easily seen that few
+regular solids are possible. Hexagonal faces are clearly impossible, or
+any polygonal faces with more than five sides. The possible forms are
+the dodecahedron with twelve pentagonal faces, three meeting at each
+corner; the cube, six square faces, three meeting at each corner; and
+three figures with triangular faces, the tetrahedron of four faces,
+three meeting at each corner; the octahedron of eight faces, four
+meeting at each corner; and the icosahedron of twenty faces, five
+meeting at each corner.]

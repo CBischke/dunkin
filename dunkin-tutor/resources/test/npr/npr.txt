@@ -1,0 +1,27 @@
+Facebook has confirmed that millions of users did in fact have personal data accessed during a serious security breach disclosed late last month.
+
+Initially, the social media giant estimated that 50 million accounts were affected by the hack but said it was not clear whether any information had been stolen.
+
+Facebook has revised the total number of affected users down to around 30 million. But it has also confirmed that hackers accessed personal details in most of those cases — including, for about half of those users, recent searches and locations.
+
+Facebook would not discuss a suspect or a motive, at the FBI's request. The bureau is actively investigating the breach.
+
+As NPR has previously reported, the hack exploited three separate bugs in Facebook's code. No passwords were compromised, but the hackers were able to gain "access tokens" that let them use accounts as though they were logged in as another person. In late September, Facebook detected unusual activity, discovered the bugs and disabled them.
+
+Facebook says the attacks were carried out between Sept. 14 and 27. The attackers moved within social networks, controlling one account at first and from there, accessing that account's friends, to initially steal access tokens for 400,000, and ultimately 30 million more accounts.
+
+Fifteen million of those users had their names and contact details — which could be email addresses or phone numbers — accessed.
+
+In a more serious breach, 14 million people had a wider array of data accessed, including their gender, religion, relationship status, birthday, current city and hometown, device types, education and work history. Hackers also had access to those users' last 15 searches, and the last 10 locations they either checked into or were tagged in by someone else.
+
+The 400,000 people whose accounts were first hacked were most seriously compromised, with hackers viewing their posts, their friend lists, their group memberships and the names of recent message conversations (though not, in most cases, the contents of those messages).
+
+"We have no reason to believe the attackers were interested in that information" from those 400,000 users, Guy Rosen, vice president of product management at Facebook, told reporters on Friday. "They were [doing] that in order to get the access tokens for those people's friends."
+
+Hackers also gained access to the accounts of about 1 million users, but did not steal any data, Facebook says.
+
+Users can visit Facebook's help site to determine whether their account was hacked.
+
+Facebook says it does not believe the attackers created any posts while imitating other users.
+
+The company also says that the hackers would hypothetically have been able to view the last four characters of users' credit card numbers, but there is no evidence they sought out that information.

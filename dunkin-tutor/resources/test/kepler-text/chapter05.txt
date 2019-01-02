@@ -1,0 +1,514 @@
+KEPLER'S LAWS.
+
+
+When Gilbert of Colchester, in his "New Philosophy," founded on his
+researches in magnetism, was dealing with tides, he did not suggest that
+the moon attracted the water, but that "subterranean spirits and
+humours, rising in sympathy with the moon, cause the sea also to rise
+and flow to the shores and up rivers". It appears that an idea,
+presented in some such way as this, was more readily received than a
+plain statement. This so-called philosophical method was, in fact, very
+generally applied, and Kepler, who shared Galileo's admiration for
+Gilbert's work, adopted it in his own attempt to extend the idea of
+magnetic attraction to the planets. The general idea of "gravity"
+opposed the hypothesis of the rotation of the earth on the ground that
+loose objects would fly off: moreover, the latest refinements of the old
+system of planetary motions necessitated their orbits being described
+about a mere empty point. Kepler very strongly combated these notions,
+pointing out the absurdity of the conclusions to which they tended, and
+proceeded in set terms to describe his own theory.
+
+"Every corporeal substance, so far forth as it is corporeal, has a
+natural fitness for resting in every place where it may be situated by
+itself beyond the sphere of influence of a body cognate with it. Gravity
+is a mutual affection between cognate bodies towards union or
+conjunction (similar in kind to the magnetic virtue), so that the earth
+attracts a stone much rather than the stone seeks the earth. Heavy
+bodies (if we begin by assuming the earth to be in the centre of the
+world) are not carried to the centre of the world in its quality of
+centre of the world, but as to the centre of a cognate round body,
+namely, the earth; so that wheresoever the earth may be placed, or
+whithersoever it may be carried by its animal faculty, heavy bodies will
+always be carried towards it. If the earth were not round, heavy bodies
+would not tend from every side in a straight line towards the centre of
+the earth, but to different points from different sides. If two stones
+were placed in any part of the world near each other, and beyond the
+sphere of influence of a third cognate body, these stones, like two
+magnetic needles, would come together in the intermediate point, each
+approaching the other by a space proportional to the comparative mass of
+the other. If the moon and earth were not retained in their orbits by
+their animal force or some other equivalent, the earth would mount to
+the moon by a fifty-fourth part of their distance, and the moon fall
+towards the earth through the other fifty-three parts, and they would
+there meet, assuming, however, that the substance of both is of the same
+density. If the earth should cease to attract its waters to itself all
+the waters of the sea would he raised and would flow to the body of the
+moon. The sphere of the attractive virtue which is in the moon extends
+as far as the earth, and entices up the waters; but as the moon flies
+rapidly across the zenith, and the waters cannot follow so quickly, a
+flow of the ocean is occasioned in the torrid zone towards the westward.
+If the attractive virtue of the moon extends as far as the earth, it
+follows with greater reason that the attractive virtue of the earth
+extends as far as the moon and much farther; and, in short, nothing
+which consists of earthly substance anyhow constituted although thrown
+up to any height, can ever escape the powerful operation of this
+attractive virtue. Nothing which consists of corporeal matter is
+absolutely light, but that is comparatively lighter which is rarer,
+either by its own nature, or by accidental heat. And it is not to be
+thought that light bodies are escaping to the surface of the universe
+while they are carried upwards, or that they are not attracted by the
+earth. They are attracted, but in a less degree, and so are driven
+outwards by the heavy bodies; which being done, they stop, and are kept
+by the earth in their own place. But although the attractive virtue of
+the earth extends upwards, as has been said, so very far, yet if any
+stone should be at a distance great enough to become sensible compared
+with the earth's diameter, it is true that on the motion of the earth
+such a stone would not follow altogether; its own force of resistance
+would be combined with the attractive force of the earth, and thus it
+would extricate itself in some degree from the motion of the earth." The
+above passage from the Introduction to Kepler's "Commentaries on the
+Motion of Mars," always regarded as his most valuable work, must have
+been known to Newton, so that no such incident as the fall of an apple
+was required to provide a necessary and sufficient explanation of the
+genesis of his Theory of Universal Gravitation. Kepler's glimpse at such
+a theory could have been no more than a glimpse, for he went no further
+with it. This seems a pity, as it is far less fanciful than many of his
+ideas, though not free from the "virtues" and "animal faculties," that
+correspond to Gilbert's "spirits and humours". We must, however, proceed
+to the subject of Mars, which was, as before noted, the first important
+investigation entrusted to Kepler on his arrival at Prague.
+
+The time taken from one opposition of Mars to the next is decidedly
+unequal at different parts of his orbit, so that many oppositions must
+be used to determine the mean motion. The ancients had noticed that what
+was called the "second inequality," due as we now know to the orbital
+motion of the earth, only vanished when earth, sun, and planet were in
+line, i.e. at the planet's opposition; therefore they used oppositions
+to determine the mean motion, but deemed it necessary to apply a
+correction to the true opposition to reduce to mean opposition, thus
+sacrificing part of the advantage of using oppositions. Tycho and
+Longomontanus had followed this method in their calculations from
+Tycho's twenty years' observations. Their aim was to find a position of
+the "equant," such that these observations would show a constant angular
+motion about it; and that the computed positions would agree in latitude
+and longitude with the actual observed positions. When Kepler arrived he
+was told that their longitudes agreed within a couple of minutes of arc,
+but that something was wrong with the latitudes. He found, however, that
+even in longitude their positions showed discordances ten times as great
+as they admitted, and so, to clear the ground of assumptions as far as
+possible, he determined to use true oppositions. To this Tycho objected,
+and Kepler had great difficulty in convincing him that the new move
+would be any improvement, but undertook to prove to him by actual
+examples that a false position of the orbit could by adjusting the
+equant be made to fit the longitudes within five minutes of arc, while
+giving quite erroneous values of the latitudes and second inequalities.
+To avoid the possibility of further objection he carried out this
+demonstration separately for each of the systems of Ptolemy, Copernicus,
+and Tycho. For the new method he noticed that great accuracy was
+required in the reduction of the observed places of Mars to the
+ecliptic, and for this purpose the value obtained for the parallax by
+Tycho's assistants fell far short of the requisite accuracy. Kepler
+therefore was obliged to recompute the parallax from the original
+observations, as also the position of the line of nodes and the
+inclination of the orbit. The last he found to be constant, thus
+corroborating his theory that the plane of the orbit passed through the
+sun. He repeated his calculations no fewer than seventy times (and that
+before the invention of logarithms), and at length adopted values for
+the mean longitude and longitude of aphelion. He found no discordance
+greater than two minutes of arc in Tycho's observed longitudes in
+opposition, but the latitudes, and also longitudes in other parts of the
+orbit were much more discordant, and he found to his chagrin that four
+years' work was practically wasted. Before making a fresh start he
+looked for some simplification of the labour; and determined to adopt
+Ptolemy's assumption known as the principle of the bisection of the
+excentricity. Hitherto, since Ptolemy had given no reason for this
+assumption, Kepler had preferred not to make it, only taking for granted
+that the centre was at some point on the line called the excentricity
+(see Figs. 1, 2).
+
+A marked improvement in residuals was the result of this step, proving,
+so far, the correctness of Ptolemy's principle, but there still remained
+discordances amounting to eight minutes of arc. Copernicus, who had no
+idea of the accuracy obtainable in observations, would probably have
+regarded such an agreement as remarkably good; but Kepler refused to
+admit the possibility of an error of eight minutes in any of Tycho's
+observations. He thereupon vowed to construct from these eight minutes a
+new planetary theory that should account for them all. His repeated
+failures had by this time convinced him that no uniformly described
+circle could possibly represent the motion of Mars. Either the orbit
+could not be circular, or else the angular velocity could not be
+constant about any point whatever. He determined to attack the "second
+inequality," i.e. the optical illusion caused by the earth's annual
+motion, but first revived an old idea of his own that for the sake of
+uniformity the sun, or as he preferred to regard it, the earth, should
+have an equant as well as the planets. From the irregularities of the
+solar motion he soon found that this was the case, and that the motion
+was uniform about a point on the line from the sun to the centre of the
+earth's orbit, such that the centre bisected the distance from the sun
+to the "Equant"; this fully supported Ptolemy's principle. Clearly then
+the earth's linear velocity could not be constant, and Kepler was
+encouraged to revive another of his speculations as to a force which was
+weaker at greater distances. He found the velocity greater at the nearer
+apse, so that the time over an equal arc at either apse was proportional
+to the distance. He conjectured that this might prove to be true for
+arcs at all parts of the orbit, and to test this he divided the orbit
+into 360 equal parts, and calculated the distances to the points of
+division. Archimedes had obtained an approximation to the area of a
+circle by dividing it radially into a very large number of triangles,
+and Kepler had this device in mind. He found that the sums of successive
+distances from his 360 points were approximately proportional to the
+times from point to point, and was thus enabled to represent much more
+accurately the annual motion of the earth which produced the second
+inequality of Mars, to whose motion he now returned. Three points are
+sufficient to define a circle, so he took three observed positions of
+Mars and found a circle; he then took three other positions, but
+obtained a different circle, and a third set gave yet another. It thus
+began to appear that the orbit could not be a circle. He next tried to
+divide into 360 equal parts, as he had in the case of the earth, but the
+sums of distances failed to fit the times, and he realised that the sums
+of distances were not a good measure of the area of successive
+triangles. He noted, however, that the errors at the apses were now
+smaller than with a central circular orbit, and of the opposite sign, so
+he determined to try whether an oval orbit would fit better, following a
+suggestion made by Purbach in the case of Mercury, whose orbit is even
+more eccentric than that of Mars, though observations were too scanty to
+form the foundation of any theory. Kepler gave his fancy play in the
+choice of an oval, greater at one end than the other, endeavouring to
+satisfy some ideas about epicyclic motion, but could not find a
+satisfactory curve. He then had the fortunate idea of trying an ellipse
+with the same axis as his tentative oval. Mars now appeared too slow at
+the apses instead of too quick, so obviously some intermediate ellipse
+must be sought between the trial ellipse and the circle on the same
+axis. At this point the "long arm of coincidence" came into play.
+Half-way between the apses lay the mean distance, and at this position
+the error was half the distance between the ellipse and the circle,
+amounting to .00429 of a radius. With these figures in his mind, Kepler
+looked up the greatest optical inequality of Mars, the angle between the
+straight lines from Mars to the Sun and to the centre of the circle.[3]
+The secant of this angle was 1.00429, so that he noted that an ellipse
+reduced from the circle in the ratio of 1.00429 to 1 would fit the
+motion of Mars at the mean distance as well as the apses.
+
+[Footnote 3: This is clearly a maximum at AMC in Fig. 2, when its
+tangent AC/CM = the eccentricity.]
+
+It is often said that a coincidence like this only happens to somebody
+who "deserves his luck," but this simply means that recognition is
+essential to the coincidence. In the same way the appearance of one of a
+large number of people mentioned is hailed as a case of the old adage
+"Talk of the devil, etc.," ignoring all the people who failed to appear.
+No one, however, will consider Kepler unduly favoured. His genius, in
+his case certainly "an infinite capacity for taking pains," enabled him
+out of his medley of hypotheses, mainly unsound, by dint of enormous
+labour and patience, to arrive thus at the first two of the laws which
+established his title of "Legislator of the Heavens".
+
+FIGURES EXPLANATORY OF KEPLER'S THEORY OF THE MOTION OF MARS.
+
+[Illustration: FIG. 1.]
+
+    _______
+   /       \
+  /         \
+ |           |
+ |___________|
+Q|  E  C  A  |P
+ |           |
+  \         /
+   \_______/
+
+[Illustration: FIG. 2.]
+
+    ___M___
+   /___|\__\
+  //  N|\\ \\
+ |/    | \\ \|
+ |_____|__\\_|
+Q| E   C   A |P
+ |\    |    /|
+  \\___|___//
+   \___|___/
+
+[Transcriber's Note: Approximate renditions of these figures are
+provided. Fig. 1 is a circle. Fig. 2 is a circle which contains an
+ellipse, tangent to the circle at Q and P. Line segments from M (on the
+circle) and N (on the ellipse) meet at point A.]
+
+FIG. 1.--In Ptolemy's excentric theory, A may be taken to represent the
+earth, C the centre of a planet's orbit, and E the equant, P (perigee)
+and Q (apogee) being the apses of the orbit. Ptolemy's idea was that
+uniform motion in a circle must be provided, and since the motion was
+not uniform about the earth, A could not coincide with C; and since the
+motion still failed to be uniform about A or C, some point E must be
+found about which the motion should be uniform.
+
+FIG. 2.--This is not drawn to scale, but is intended to illustrate
+Kepler's modification of Ptolemy's excentric. Kepler found velocities at
+P and Q proportional not to AP and AQ but to AQ and AP, or to EP and EQ
+if EC = CA (bisection of the excentricity). The velocity at M was wrong,
+and AM appeared too great. Kepler's first ellipse had M moved too near
+C. The distance AC is much exaggerated in the figure, as also is MN.
+AN = CP, the radius of the circle. MN should be .00429 of the radius,
+and MC/NC should be 1.00429. The velocity at N appeared to be
+proportional to EN ( = AN). Kepler concluded that Mars moved round PNQ,
+so that the area described about A (the sun) was equal in equal times, A
+being the focus of the ellipse PNQ. The angular velocity is not quite
+constant about E, the equant or empty focus, but the difference could
+hardly have been detected in Kepler's time.
+
+Kepler's improved determination of the earth's orbit was obtained by
+plotting the different positions of the earth corresponding to
+successive rotations of Mars, i.e. intervals of 687 days. At each of
+these the date of the year would give the angle MSE (Mars-Sun-Earth),
+and Tycho's observation the angle MES. So the triangle could be solved
+except for scale, and the ratio of SE to SM would give the distance of
+Mars from the sun in terms of that of the earth. Measuring from a fixed
+position of Mars (e.g. perihelion), this gave the variation of SE,
+showing the earth's inequality. Measuring from a fixed position of the
+earth, it would give similarly a series of positions of Mars, which,
+though lying not far from the circle whose diameter was the axis of
+Mars' orbit, joining perihelion and aphelion, always fell inside the
+circle except at those two points. It was a long time before it dawned
+upon Kepler that the simplest figure falling within the circle except at
+the two extremities of the diameter, was an ellipse, and it is not clear
+why his first attempt with an ellipse should have been just as much too
+narrow as the circle was too wide. The fact remains that he recognised
+suddenly that halving this error was tantamount to reducing the circle
+to the ellipse whose eccentricity was that of the old theory, i.e. that
+in which the sun would be in one focus and the equant in the other.
+
+Having now fitted the ends of both major and minor axes of the ellipse,
+he leaped to the conclusion that the orbit would fit everywhere.
+
+The practical effect of his clearing of the "second inequality" was to
+refer the orbit of Mars directly to the sun, and he found that the area
+between successive distances of Mars from the sun (instead of the sum of
+the distances) was strictly proportional to the time taken, in short,
+equal areas were described in equal times (2nd Law) when referred to the
+sun in the focus of the ellipse (1st Law).
+
+He announced that (1) The planet describes an ellipse, the sun being in
+one focus; and (2) The straight line joining the planet to the sun
+sweeps out equal areas in any two equal intervals of time. These are
+Kepler's first and second Laws though not discovered in that order, and
+it was at once clear that Ptolemy's "bisection of the excentricity"
+simply amounted to the fact that the centre of an ellipse bisects the
+distance between the foci, the sun being in one focus and the angular
+velocity being uniform about the empty focus. For so many centuries had
+the fetish of circular motion postponed discovery. It was natural that
+Kepler should assume that his laws would apply equally to all the
+planets, but the proof of this, as well as the reason underlying the
+laws, was only given by Newton, who approached the subject from a
+totally different standpoint.
+
+This commentary on Mars was published in 1609, the year of the invention
+of the telescope, and Kepler petitioned the Emperor for further funds to
+enable him to complete the study of the other planets, but once more
+there was delay; in 1612 Rudolph died, and his brother Matthias who
+succeeded him, cared very little for astronomy or even astrology, though
+Kepler was reappointed to his post of Imperial Mathematician. He left
+Prague to take up a permanent professorship at the University of Linz.
+His own account of the circumstances is gloomy enough. He says, "In the
+first place I could get no money from the Court, and my wife, who had
+for a long time been suffering from low spirits and despondency, was
+taken violently ill towards the end of 1610, with the Hungarian fever,
+epilepsy and phrenitis. She was scarcely convalescent when all my three
+children were at once attacked with smallpox. Leopold with his army
+occupied the town beyond the river just as I lost the dearest of my
+sons, him whose nativity you will find in my book on the new star. The
+town on this side of the river where I lived was harassed by the
+Bohemian troops, whose new levies were insubordinate and insolent; to
+complete the whole, the Austrian army brought the plague with them into
+the city. I went into Austria and endeavoured to procure the situation
+which I now hold. Returning in June, I found my wife in a decline from
+her grief at the death of her son, and on the eve of an infectious
+fever, and I lost her also within eleven days of my return. Then came
+fresh annoyance, of course, and her fortune was to be divided with my
+step-sisters. The Emperor Rudolph would not agree to my departure; vain
+hopes were given me of being paid from Saxony; my time and money were
+wasted together, till on the death of the Emperor in 1612, I was named
+again by his successor, and suffered to depart to Linz."
+
+Being thus left a widower with a ten-year-old daughter Susanna, and a
+boy Louis of half her age, he looked for a second wife to take charge of
+them. He has given an account of eleven ladies whose suitability he
+considered. The first, an intimate friend of his first wife, ultimately
+declined; one was too old, another an invalid, another too proud of her
+birth and quarterings, another could do nothing useful, and so on.
+Number eight kept him guessing for three months, until he tired of her
+constant indecision, and confided his disappointment to number nine, who
+was not impressed. Number ten, introduced by a friend, Kepler found
+exceedingly ugly and enormously fat, and number eleven apparently too
+young. Kepler then reconsidered one of the earlier ones, disregarding
+the advice of his friends who objected to her lowly station. She was the
+orphan daughter of a cabinetmaker, educated for twelve years by favour
+of the Lady of Stahrenburg, and Kepler writes of her: "Her person and
+manners are suitable to mine; no pride, no extravagance; she can bear to
+work; she has a tolerable knowledge of how to manage a family;
+middle-aged and of a disposition and capability to acquire what she
+still wants".
+
+Wine from the Austrian vineyards was plentiful and cheap at the time of
+the marriage, and Kepler bought a few casks for his household. When the
+seller came to ascertain the quantity, Kepler noticed that no proper
+allowance was made for the bulging parts, and the upshot of his
+objections was that he wrote a book on a new method of gauging--one of
+the earliest specimens of modern analysis, extending the properties of
+plane figures to segments of cones and cylinders as being "incorporated
+circles". He was summoned before the Diet at Ratisbon to give his
+opinion on the Gregorian Reform of the Calendar, and soon afterwards was
+excommunicated, having fallen foul of the Roman Catholic party at Linz
+just as he had previously at Gratz, the reason apparently being that he
+desired to think for himself. Meanwhile his salary was not paid any more
+regularly than before, and he was forced to supplement it by publishing
+what he called a "vile prophesying almanac which is scarcely more
+respectable than begging unless it be because it saves the Emperor's
+credit, who abandons me entirely, and with all his frequent and recent
+orders in council, would suffer me to perish with hunger".
+
+In 1617 he was invited to Italy to succeed Magini as Professor of
+Mathematics at Bologna. Galileo urged him to accept the post, but he
+excused himself on the ground that he was a German and brought up among
+Germans with such liberty of speech as he thought might get him into
+trouble in Italy. In 1619 Matthias died and was succeeded by Ferdinand
+III, who again retained Kepler in his post. In the same year Kepler
+reprinted his "Mysterium Cosmographicum," and also published his
+"Harmonics" in five books dedicated to James I of England. "The first
+geometrical, on the origin and demonstration of the laws of the figures
+which produce harmonious proportions; the second, architectonical, on
+figurate geometry and the congruence of plane and solid regular figures;
+the third, properly Harmonic, on the derivation of musical proportions
+from figures, and on the nature and distinction of things relating to
+song, in opposition to the old theories; the fourth, metaphysical,
+psychological, and astrological, on the mental essence of Harmonics, and
+of their kinds in the world, especially on the harmony of rays emanating
+on the earth from the heavenly bodies, and on their effect in nature and
+on the sublunary and human soul; the fifth, astronomical and
+metaphysical, on the very exquisite Harmonics of the celestial motions
+and the origin of the excentricities in harmonious proportions." The
+extravagance of his fancies does not appear until the fourth book, in
+which he reiterates the statement that he was forced to adopt his
+astrological opinions from direct and positive observation. He despises
+"The common herd of prophesiers who describe the operations of the stars
+as if they were a sort of deities, the lords of heaven and earth, and
+producing everything at their pleasure. They never trouble themselves to
+consider what means the stars have of working any effects among us on
+the earth whilst they remain in the sky and send down nothing to us
+which is obvious to the senses, except rays of light." His own notion is
+"Like one who listens to a sweet melodious song, and by the gladness of
+his countenance, by his voice, and by the beating of his hand or foot
+attuned to the music, gives token that he perceives and approves the
+harmony: just so does sublunary nature, with the notable and evident
+emotion of the bowels of the earth, bear like witness to the same
+feelings, especially at those times when the rays of the planets form
+harmonious configurations on the earth," and again "The earth is not an
+animal like a dog, ready at every nod; but more like a bull or an
+elephant, slow to become angry, and so much the more furious when
+incensed." He seems to have believed the earth to be actually a living
+animal, as witness the following: "If anyone who has climbed the peaks
+of the highest mountains, throw a stone down their very deep clefts, a
+sound is heard from them; or if he throw it into one of the mountain
+lakes, which beyond doubt are bottomless, a storm will immediately
+arise, just as when you thrust a straw into the ear or nose of a
+ticklish animal, it shakes its head, or runs shudderingly away. What so
+like breathing, especially of those fish who draw water into their
+mouths and spout it out again through their gills, as that wonderful
+tide! For although it is so regulated according to the course of the
+moon, that, in the preface to my 'Commentaries on Mars,' I have
+mentioned it as probable that the waters are attracted by the moon, as
+iron by the loadstone, yet if anyone uphold that the earth regulates its
+breathing according to the motion of the sun and moon, as animals have
+daily and nightly alternations of sleep and waking, I shall not think
+his philosophy unworthy of being listened to; especially if any flexible
+parts should be discovered in the depths of the earth, to supply the
+functions of lungs or gills."
+
+In the same book Kepler enlarges again on his views in reference to the
+basis of astrology as concerned with nativities and the importance of
+planetary conjunctions. He gives particulars of his own nativity.
+"Jupiter nearest the nonagesimal had passed by four degrees the trine of
+Saturn; the Sun and Venus in conjunction were moving from the latter
+towards the former, nearly in sextiles with both: they were also
+removing from quadratures with Mars, to which Mercury was closely
+approaching: the moon drew near to the trine of the same planet, close
+to the Bull's Eye even in latitude. The 25th degree of Gemini was
+rising, and the 22nd of Aquarius culminating. That there was this triple
+configuration on that day--namely the sextile of Saturn and the Sun,
+the sextile of Mars and Jupiter, and the quadrature of Mercury and Mars,
+is proved by the change of weather; for after a frost of some days, that
+very day became warmer, there was a thaw and a fall of rain." This
+alleged "proof" is interesting as it relies on the same principle which
+was held to justify the correction of an uncertain birth-time, by
+reference to illnesses, etc., met with later. Kepler however goes on to
+say, "If I am to speak of the results of my studies, what, I pray, can I
+find in the sky, even remotely alluding to it? The learned confess that
+several not despicable branches of philosophy have been newly extricated
+or amended or brought to perfection by me: but here my constellations
+were, not Mercury from the East in the angle of the seventh, and in
+quadratures with Mars, but Copernicus, but Tycho Brahe, without whose
+books of observations everything now set by me in the clearest light
+must have remained buried in darkness; not Saturn predominating Mercury,
+but my lords the Emperors Rudolph and Matthias, not Capricorn the house
+of Saturn but Upper Austria, the house of the Emperor, and the ready and
+unexampled bounty of his nobles to my petition. Here is that corner, not
+the western one of the horoscope, but on the earth whither, by
+permission of my Imperial master, I have betaken myself from a too
+uneasy Court; and whence, during these years of my life, which now tends
+towards its setting, emanate these Harmonics and the other matters on
+which I am engaged."
+
+The fifth book contains a great deal of nonsense about the harmony of
+the spheres; the notes contributed by the several planets are gravely
+set down, that of Mercury having the greatest resemblance to a melody,
+though perhaps more reminiscent of a bugle-call. Yet the book is not all
+worthless for it includes Kepler's Third Law, which he had diligently
+sought for years. In his own words, "The proportion existing between the
+periodic times of any two planets is exactly the sesquiplicate
+proportion of the mean distances of the orbits," or as generally given,
+"the squares of the periodic times are proportional to the cubes of the
+mean distances." Kepler was evidently transported with delight and
+wrote, "What I prophesied two and twenty years ago, as soon as I
+discovered the five solids among the heavenly orbits,--what I firmly
+believed long before I had seen Ptolemy's 'Harmonics'--what I had
+promised my friends in the title of this book, which I named before I
+was sure of my discovery,--what sixteen years ago I urged as a thing to
+be sought,--that for which I joined Tycho Brahe, for which I settled in
+Prague, for which I have devoted the best part of my life to
+astronomical computations, at length I have brought to light, and have
+recognised its truth beyond my most sanguine expectations. Great as is
+the absolute nature of Harmonics, with all its details as set forth in
+my third book, it is all found among the celestial motions, not indeed
+in the manner which I imagined (that is not the least part of my
+delight), but in another very different, and yet most perfect and
+excellent. It is now eighteen months since I got the first glimpse of
+light, three months since the dawn, very few days since the unveiled
+sun, most admirable to gaze on, burst out upon me. Nothing holds me; I
+will indulge in my sacred fury; I will triumph over mankind by the
+honest confession that I have stolen the golden vases of the Egyptians
+to build up a tabernacle for my God far away from the confines of Egypt.
+If you forgive me, I rejoice, if you are angry, I can bear it; the die
+is cast, the book is written; to be read either now or by posterity, I
+care not which; it may well wait a century for a reader, as God has
+waited six thousand years for an observer." He gives the date 15th May,
+1618, for the completion of his discovery. In his "Epitome of the
+Copernican Astronomy," he gives his own idea as to the reason for this
+Third Law. "Four causes concur for lengthening the periodic time. First,
+the length of the path; secondly, the weight or quantity of matter to be
+carried; thirdly, the degree of strength of the moving virtue; fourthly,
+the bulk or space into which is spread out the matter to be moved. The
+orbital paths of the planets are in the simple ratio of the distances;
+the weights or quantities of matter in different planets are in the
+subduplicate ratio of the same distances, as has been already proved; so
+that with every increase of distance a planet has more matter and
+therefore is moved more slowly, and accumulates more time in its
+revolution, requiring already, as it did, more time by reason of the
+length of the way. The third and fourth causes compensate each other in
+a comparison of different planets; the simple and subduplicate
+proportion compound the sesquiplicate proportion, which therefore is the
+ratio of the periodic times." The only part of this "explanation" that
+is true is that the paths are in the simple ratio of the distances, the
+"proof" so confidently claimed being of the circular kind commonly known
+as "begging the question". It was reserved for Newton to establish the
+Laws of Motion, to find the law of force that would constrain a planet
+to obey Kepler's first and second Laws, and to prove that it must
+therefore also obey the third.

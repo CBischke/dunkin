@@ -1,0 +1,223 @@
+ASTRONOMY BEFORE KEPLER.
+
+
+In order to emphasise the importance of the reforms introduced into
+astronomy by Kepler, it will be well to sketch briefly the history of
+the theories which he had to overthrow. In very early times it must have
+been realised that the sun and moon were continually changing their
+places among the stars. The day, the month, and the year were obvious
+divisions of time, and longer periods were suggested by the tabulation
+of eclipses. We can imagine the respect accorded to the Chaldaean sages
+who first discovered that eclipses could be predicted, and how the
+philosophers of Mesopotamia must have sought eagerly for evidence of
+fresh periodic laws. Certain of the stars, which appeared to wander, and
+were hence called planets, provided an extended field for these
+speculations. Among the Chaldaeans and Babylonians the knowledge
+gradually acquired was probably confined to the priests and utilised
+mainly for astrological prediction or the fixing of religious
+observances. Such speculations as were current among them, and also
+among the Egyptians and others who came to share their knowledge, were
+almost entirely devoted to mythology, assigning fanciful terrestrial
+origins to constellations, with occasional controversies as to how the
+earth is supported in space. The Greeks, too, had an elaborate mythology
+largely adapted from their neighbours, but they were not satisfied with
+this, and made persistent attempts to reduce the apparent motions of
+celestial objects to geometrical laws. Some of the Pythagoreans, if not
+Pythagoras himself, held that the earth is a sphere, and that the
+apparent daily revolution of the sun and stars is really due to a motion
+of the earth, though at first this motion of the earth was not supposed
+to be one of rotation about an axis. These notions, and also that the
+planets on the whole move round from west to east with reference to the
+stars, were made known to a larger circle through the writings of Plato.
+To Plato moreover is attributed the challenge to astronomers to
+represent all the motions of the heavenly bodies by uniformly described
+circles, a challenge generally held responsible for a vast amount of
+wasted effort, and the postponement, for many centuries, of real
+progress. Eudoxus of Cnidus, endeavouring to account for the fact that
+the planets, during every apparent revolution round the earth, come to
+rest twice, and in the shorter interval between these "stationary
+points," move in the opposite direction, found that he could represent
+the phenomena fairly well by a system of concentric spheres, each
+rotating with its own velocity, and carrying its own particular planet
+round its own equator, the outermost sphere carrying the fixed stars. It
+was necessary to assume that the axes about which the various spheres
+revolved should have circular motions also, and gradually an increased
+number of spheres was evolved, the total number required by Aristotle
+reaching fifty-five. It may be regarded as counting in Aristotle's
+favour that he did consider the earth to be a sphere and not a flat
+disc, but he seems to have thought that the mathematical spheres of
+Eudoxus had a real solid existence, and that not only meteors, shooting
+stars and aurora, but also comets and the milky way belong to the
+atmosphere. His really great service to science in collating and
+criticising all that was known of natural science would have been
+greater if so much of the discussion had not been on the exact meaning
+of words used to describe phenomena, instead of on the facts and causes
+of the phenomena themselves.
+
+Aristarchus of Samos seems to have been the first to suggest that the
+planets revolved not about the earth but about the sun, but the idea
+seemed so improbable that it was hardly noticed, especially as
+Aristarchus himself did not expand it into a treatise.
+
+About this time the necessity for more accurate places of the sun and
+moon, and the liberality of the Ptolemys who ruled Egypt, combined to
+provide regular observations at Alexandria, so that, when Hipparchus
+came upon the scene, there was a considerable amount of material for him
+to use. His discoveries marked a great advance in the science of
+astronomy. He noted the irregular motion of the sun, and, to explain it,
+assumed that it revolved uniformly not exactly about the earth but
+about a point some distance away, called the "excentric".[1] The line
+joining the centre of the earth to the excentric passes through the
+apses of the sun's orbit, where its distance from the earth is greatest
+and least. The same result he could obtain by assuming that the sun
+moved round a small circle, whose centre described a larger circle about
+the earth; this larger circle carrying the other was called the
+"deferent": so that the actual motion of the sun was in an epicycle. Of
+the two methods of expression Hipparchus ultimately preferred the
+second. He applied the same process to the moon but found that he could
+depend upon its being right only at new and full moon. The irregularity
+at first and third quarters he left to be investigated by his
+successors. He also considered the planetary observations at his
+disposal insufficient and so gave up the attempt at a complete planetary
+theory. He made improved determinations of some of the elements of the
+motions of the sun and moon, and discovered the Precession of the
+Equinoxes, from the Alexandrian observations which showed that each year
+as the sun came to cross the equator at the vernal equinox it did so at
+a point about fifty seconds of arc earlier on the ecliptic, thus
+producing in 150 years an unmistakable change of a couple of degrees, or
+four times the sun's diameter. He also invented trigonometry. His star
+catalogue was due to the appearance of a new star which caused him to
+search for possible previous similar phenomena, and also to prepare for
+checking future ones. No advance was made in theoretical astronomy for
+260 years, the interval between Hipparchus and Ptolemy of Alexandria.
+Ptolemy accepted the spherical form of the earth but denied its rotation
+or any other movement. He made no advance on Hipparchus in regard to the
+sun, though the lapse of time had largely increased the errors of the
+elements adopted by the latter. In the case of the moon, however,
+Ptolemy traced the variable inequality noticed sometimes by Hipparchus
+at first and last quarter, which vanished when the moon was in apogee or
+perigee. This he called the evection, and introduced another epicycle
+to represent it. In his planetary theory he found that the places given
+by his adopted excentric did not fit, being one way at apogee and the
+other at perigee; so that the centre of distance must be nearer the
+earth. He found it best to assume the centre of distance half-way
+between the centre of the earth and the excentric, thus "bisecting the
+excentricity". Even this did not fit in the case of Mercury, and in
+general the agreement between theory and observation was spoilt by the
+necessity of making all the orbital planes pass through the centre of
+the earth, instead of the sun, thus making a good accordance practically
+impossible.
+
+[Footnote 1: See Glossary for this and other technical terms.]
+
+After Ptolemy's time very little was heard for many centuries of any
+fresh planetary theory, though advances in some points of detail were
+made, notably by some of the Arab philosophers, who obtained improved
+values for some of the elements by using better instruments. From time
+to time various modifications of Ptolemy's theory were suggested, but
+none of any real value. The Moors in Spain did their share of the work
+carried on by their Eastern co-religionists, and the first independent
+star catalogue since the time of Hipparchus was made by another
+Oriental, Tamerlane's grandson, Ulugh Begh, who built a fine observatory
+at Samarcand in the fifteenth century. In Spain the work was not
+monopolised by the Moors, for in the thirteenth century Alphonso of
+Castile, with the assistance of Jewish and Christian computers, compiled
+the Alphonsine tables, completed in 1252, in which year he ascended the
+throne as Alphonso X. They were long circulated in MS. and were first
+printed in 1483, not long before the end of the period of stagnation.
+
+Copernicus was born in 1473 at Thorn in Polish Prussia. In the course of
+his studies at Cracow and at several Italian universities, he learnt all
+that was known of the Ptolemaic astronomy and determined to reform it.
+His maternal uncle, the Bishop of Ermland, having provided him with a
+lay canonry in the Cathedral of Frauenburg, he had leisure to devote
+himself to Science. Reviewing the suggestions of the ancient Greeks, he
+was struck by the simplification that would be introduced by reviving
+the idea that the annual motion should be attributed to the earth itself
+instead of having a separate annual epicycle for each planet and for the
+sun. Of the seventy odd circles or epicycles required by the latest form
+of the Ptolemaic system, Copernicus succeeded in dispensing with rather
+more than half, but he still required thirty-four, which was the exact
+number assumed before the time of Aristotle. His considerations were
+almost entirely mathematical, his only invasion into physics being in
+defence of the "moving earth" against the stock objection that if the
+earth moved, loose objects would fly off, and towers fall. He did not
+break sufficiently away from the old tradition of uniform circular
+motion. Ptolemy's efforts at exactness were baulked, as we have seen, by
+the supposed necessity of all the orbit planes passing through the
+earth, and if Copernicus had simply transferred this responsibility to
+the sun he would have done better. But he would not sacrifice the old
+fetish, and so, the orbit of the earth being clearly not circular with
+respect to the sun, he made all his planetary planes pass through the
+centre of the earth's orbit, instead of through the sun, thus
+handicapping himself in the same way though not in the same degree as
+Ptolemy. His thirty-four circles or epicycles comprised four for the
+earth, three for the moon, seven for Mercury (on account of his highly
+eccentric orbit) and five each for the other planets.
+
+It is rather an exaggeration to call the present accepted system the
+Copernican system, as it is really due to Kepler, half a century after
+the death of Copernicus, but much credit is due to the latter for his
+successful attempt to provide a real alternative for the Ptolemaic
+system, instead of tinkering with it. The old geocentric system once
+shaken, the way was gradually smoothed for the heliocentric system,
+which Copernicus, still hampered by tradition, did not quite reach. He
+was hardly a practical astronomer in the observational sense. His first
+recorded observation, of an occultation of Aldebaran, was made in 1497,
+and he is not known to have made as many as fifty astronomical
+observations, while, of the few he did make and use, at least one was
+more than half a degree in error, which would have been intolerable to
+such an observer as Hipparchus. Copernicus in fact seems to have
+considered accurate observations unattainable with the instruments at
+hand. He refused to give any opinion on the projected reform of the
+calendar, on the ground that the motions of the sun and moon were not
+known with sufficient accuracy. It is possible that with better data he
+might have made much more progress. He was in no hurry to publish
+anything, perhaps on account of possible opposition. Certainly Luther,
+with his obstinate conviction of the verbal accuracy of the Scriptures,
+rejected as mere folly the idea of a moving earth, and Melanchthon
+thought such opinions should be prohibited, but Rheticus, a professor at
+the Protestant University of Wittenberg and an enthusiastic pupil of
+Copernicus, urged publication, and undertook to see the work through the
+press. This, however, he was unable to complete and another Lutheran,
+Osiander, to whom he entrusted it, wrote a preface, with the apparent
+intention of disarming opposition, in which he stated that the
+principles laid down were only abstract hypotheses convenient for
+purposes of calculation. This unauthorised interpolation may have had
+its share in postponing the prohibition of the book by the Church of
+Rome.
+
+According to Copernicus the earth is only a planet like the others, and
+not even the biggest one, while the sun is the most important body in
+the system, and the stars probably too far away for any motion of the
+earth to affect their apparent places. The earth in fact is very small
+in comparison with the distance of the stars, as evidenced by the fact
+that an observer anywhere on the earth appears to be in the middle of
+the universe. He shows that the revolution of the earth will account for
+the seasons, and for the stationary points and retrograde motions of the
+planets. He corrects definitely the order of the planets outwards from
+the sun, a matter which had been in dispute. A notable defect is due to
+the idea that a body can only revolve about another body or a point, as
+if rigidly connected with it, so that, in order to keep the earth's axis
+in a constant direction in space, he has to invent a third motion. His
+discussion of precession, which he rightly attributes to a slow motion
+of the earth's axis, is marred by the idea that the precession is
+variable. With all its defects, partly due to reliance on bad
+observations, the work showed a great advance in the interpretation of
+the motions of the planets; and his determinations of the periods both
+in relation to the earth and to the stars were adopted by Reinhold,
+Professor of Astronomy at Wittenberg, for the new Prutenic or Prussian
+Tables, which were to supersede the obsolete Alphonsine Tables of the
+thirteenth century.
+
+In comparison with the question of the motion of the earth, no other
+astronomical detail of the time seems to be of much consequence. Comets,
+such as from time to time appeared, bright enough for naked eye
+observation, were still regarded as atmospheric phenomena, and their
+principal interest, as well as that of eclipses and planetary
+conjunctions, was in relation to astrology. Reform, however, was
+obviously in the air. The doctrine of Copernicus was destined very soon
+to divide others besides the Lutheran leaders. The leaven of inquiry was
+working, and not long after the death of Copernicus real advances were
+to come, first in the accuracy of observations, and, as a necessary
+result of these, in the planetary theory itself.

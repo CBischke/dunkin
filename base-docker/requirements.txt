@@ -19,7 +19,7 @@ jsonschema==2.6.0
 lexrank==0.1.0
 MarkupSafe==1.1.0
 mathparse==0.1.2
-nltk==3.3
+nltk==3.4.5
 numpy==1.15.2
 oauthlib==2.1.0
 path.py==11.5.0

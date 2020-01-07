@@ -29,7 +29,7 @@ pyrsistent==0.14.4
 python-dateutil==2.6.1
 python-twitter==3.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.1
 regex==2018.8.29
 requests==2.20.1
 requests-oauthlib==1.0.0
